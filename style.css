@@ -12,6 +12,20 @@
     width: 100%;
 }
 
+.item h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .item p{
+    padding: 5px;
     text-align: justify;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15px;
+    background-color: dodgerblue;
 }
